@@ -4,7 +4,7 @@
 This project aims to build a simple blockchain-based messaging application. Mongodb was preferred as the database.
 
 
-## Yükleme 
+## Install 
 
 git clone https://github.com/BerkanN1/blockchain.git
 
