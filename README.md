@@ -54,9 +54,9 @@ Base url localhost:3000
 ```
 
   
-## İlişkili Projeler
+## Mobile Application
 
-İşte bazı ilgili projeler
+
 
 [For IOS App ](https://github.com/BerkanN1/BlockchainChatApp)
 
